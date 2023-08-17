@@ -1,0 +1,19 @@
+.search{
+    width: 15rem;
+    margin-right: 10rem;
+    display: inline-block;
+}
+.brand{
+    background: #15C9CF;
+    background: linear-gradient(to right, #218fCf 0%, #86cf46 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+
+  }
+.modal{
+    backdrop-filter: blur(5px);
+}
+#coustomtable th,
+coustomtable td{
+    padding: 0.5rem !important;
+}
